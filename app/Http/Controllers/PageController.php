@@ -56,7 +56,7 @@ class PageController extends Controller
 		//ส่งเข้าไลน์
 	
         return redirect('/')->with('message','
-        	สมัครสมาชิกเรียบร้อย');
+        	สมัครเรียนเรียบร้อย');
     }
 
 }
